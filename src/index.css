@@ -18,7 +18,7 @@
 }
 
 /* Apply styles to the buttons */
-.content a, button {
+.content a, .content button {
   display: block;
   cursor: pointer;
   width: 150px;
@@ -31,7 +31,7 @@
   border-radius: 5px;
 }
 
-.content a:hover, button:hover {
+.content a:hover, .content button:hover {
   background-color: #0056b3;
 }
 
